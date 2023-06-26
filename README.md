@@ -71,5 +71,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+Create React App is a tool to help you quickly set up a new React project with minimal configuration.
+Available Scripts: You can use various npm scripts to run your app, test it, build it for production, or eject from the default setup.
+npm start: Runs the app in development mode at http://localhost:3000
+npm test: Launches the test runner in interactive watch mode.
+npm run build: Builds the app for production, optimizing for performance.
+npm run eject: Removes the single build dependency and copies all configuration files to your project, allowing you to fully customize the build process.
+Learn More: Consult the Create React App documentation and the React documentation for more information.
+Additional Topics: The document also provides links to more advanced topics like code splitting, analyzing bundle size, making a progressive web app, advanced configuration, and deployment.
+Remember that Create React App is an excellent starting point for building React applications, but you may need to customize it further as your project grows and requires more advanced features
+
  thanks for read this 
  kimiya.k
